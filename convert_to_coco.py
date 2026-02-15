@@ -176,7 +176,7 @@ if __name__ == "__main__":
     # Paths
     mat_file = "joints.mat"
     images_dir = "images"
-    output_file = "hr_lspet_coco_keypoints.json"
+    output_file = "annotations.json"
 
     # Load joints data
     print("Loading joints.mat...")
